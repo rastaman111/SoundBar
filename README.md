@@ -7,7 +7,7 @@
   <img src="https://github.com/rastaman111/SoundBar/blob/main/Avatar_v.1.png" width="300" alt="Sublime's custom image"/>
 </p>
 
-### Supported locales & Languages
+### Supported locales
 - Russian
 
 ## Author
