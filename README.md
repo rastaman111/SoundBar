@@ -7,6 +7,14 @@
   <img src="https://github.com/rastaman111/SoundBar/blob/main/Avatar_v.1.png" width="300" alt="Sublime's custom image"/>
 </p>
 
+### How to import files
+
+- Using [AirDrop](https://support.apple.com/en-us/HT204144#receive) from your Mac or iOS device
+- From [Files](https://support.apple.com/en-us/ht206481) and other apps on your iOS device
+- Via [File Sharing](https://support.apple.com/en-us/HT201301) in iTunes on your PC
+- Using [Safari](https://support.apple.com/en-in/guide/iphone/iph1fbef4daa/ios) from your your iOS device
+- Zip files are supported, which can be automatically unzipped.
+
 ### Supported locales
 - Russian
 
