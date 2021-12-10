@@ -23,6 +23,11 @@
 
 ### Supported locales
 - Russian
+- English
+- German
+- Franch
+- Chinese
+- Japanese
 
 ## Author
 - [@rastaman111](https://github.com/rastaman111) - Idea generator & Designer & Implementer
