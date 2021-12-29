@@ -13,7 +13,24 @@
   <img src="https://github.com/rastaman111/SoundBar/blob/main/Avatar_v.1.png" width="300" alt="Sublime's custom image"/>
 </p>
 
-### How to import files
+## Features
+
+| Features                                         |
+| ------------------------------------------------ |
+| Play audio in the background.                    |
+| Support for all audio formats.                   |
+| Player control on the lock screen.               |
+| Playback speed control.                          |
+| Editing file metadat.                            |
+| Switch between chapters in an audiobook.         |
+| Adding bookmarks.                                |
+| View lyrics.                                     |
+| Sleep timer                                      |
+| AirPlay                                          |
+| Dark theme                                       |
+| Drag and drop support                            |
+
+## How to import files
 
 - Using [AirDrop](https://support.apple.com/en-us/HT204144#receive) from your Mac or iOS device
 - From [Files](https://support.apple.com/en-us/ht206481) and other apps on your iOS device
@@ -21,21 +38,30 @@
 - Using [Safari](https://support.apple.com/en-in/guide/iphone/iph1fbef4daa/ios) from your your iOS device
 - Zip files are supported, which can be automatically unzipped.
 
-### Supported locales
+## Supported locales
 - Russian
 - English
 - German
 - Franch
 - Chinese
 - Japanese
+- Spanish 
+- Greek
 
 ## Author
 - [@rastaman111](https://github.com/rastaman111) - Idea generator & Designer & Implementer
 
+## Requirements
+
+- iOS 13.0+
+
 ## Contributing
 
-If you find a bug or have ideas for upgrading the application, please [open an issue](https://github.com/rastaman111/SoundBar/issues/new).
+If you've any remarks please  or have ideas for upgrading the application feel free to open [up an issue](https://github.com/rastaman111/SoundBar/issues/new).  Thanks 👍
 
 ## License
 
 Licensed under [GNU GPL v. 3.0](https://opensource.org/licenses/GPL-3.0). See `LICENSE` for details.
+
+## Donation
+<a href="https://www.buymeacoffee.com/SoundBar" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
