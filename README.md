@@ -47,6 +47,7 @@
 - Japanese
 - Spanish 
 - Greek
+- Turkish
 
 ## Author
 - [@rastaman111](https://github.com/rastaman111) - Idea generator & Designer & Implementer
