@@ -3,14 +3,14 @@
   <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/249f6cdf26a5c0134ea21021c361d76fc49ec229161b6313c4f74d27f2de4c20/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c616e67756167652d53776966742d6f72616e67652e737667"><img src="https://camo.githubusercontent.com/249f6cdf26a5c0134ea21021c361d76fc49ec229161b6313c4f74d27f2de4c20/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c616e67756167652d53776966742d6f72616e67652e737667" alt="Language" data-canonical-src="https://img.shields.io/badge/language-Swift-orange.svg" style="max-width:100%;"></a>
 </p>
 
-<p align="center">
+<p align="left">
     <a href="https://apps.apple.com/us/app/bookplayer-audio-book-player/id1586640348">
         <img src="https://github.com/rastaman111/SoundBar/blob/main/app-store-badge.svg" alt="Download on the App Store">
     </a>
 </p>
 
 <p align="left">
-  <img src="https://github.com/rastaman111/SoundBar/blob/main/Avatar_v.1.png" width="300" alt="Sublime's custom image"/>
+  <img src="https://github.com/rastaman111/SoundBar/blob/main/Avatar_v.2.png" width="300" alt="Sublime's custom image"/>
 </p>
 
 ## Features
