@@ -48,6 +48,8 @@
 - Spanish 
 - Greek
 - Turkish
+- Czech
+- Polish
 
 ## Author
 - [@rastaman111](https://github.com/rastaman111) - Idea generator & Designer & Implementer
