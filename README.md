@@ -56,7 +56,7 @@
 
 ## Requirements
 
-- iOS 13.0+
+- iOS 14.0+
 
 ## Contributing
 
